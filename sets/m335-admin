@@ -7,3 +7,10 @@ kde-misc/kdiff3
 sys-block/gparted
 net-misc/wicd gtk ioctl X
 app-emulation/virtualbox additions alsa pulseaudio sdk
+
+app-admin/sudo
+kde-misc/kdesudo
+
+app-portage/porthole
+
+sys-kernel/linux-firmware
