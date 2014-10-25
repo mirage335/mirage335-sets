@@ -6,3 +6,4 @@ kde-misc/krename
 kde-misc/kdiff3
 sys-block/gparted
 net-misc/wicd gtk ioctl X
+app-emulation/virtualbox additions alsa pulseaudio sdk
