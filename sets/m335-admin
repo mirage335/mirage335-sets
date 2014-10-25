@@ -5,3 +5,4 @@ kde-base/kwrite
 kde-misc/krename
 kde-misc/kdiff3
 sys-block/gparted
+net-misc/wicd gtk ioctl X
