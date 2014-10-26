@@ -10,7 +10,7 @@ sci-electronics/gtkwave
 #sci-electronics/gwave
 sci-electronics/ngspice
 sci-electronics/pcb2gcode
-sci-electronics/pcb-dsn dbus gif gtk jpeg gcode mvlib-png opengl png tk toporouter
+sci-electronics/pcb-dsn[gif,gtk,jpeg,gcode,mvlib-png,opengl,png,tk,toporouter]
 
 sci-calculators/qalculate-gtk
 sci-mathematics/cgal
@@ -21,4 +21,4 @@ app-office/texmacs
 
 media-gfx/freecad
 
-net-wireless/gnuradio audio alsa analog digital examples fcd filter grc qt4 sdl uhd utils wavelet wxwidgets
+net-wireless/gnuradio[audio,alsa,analog,digital,examples,fcd,filter,grc,qt4,sdl,uhd,utils,wavelet,wxwidgets]

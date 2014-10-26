@@ -1,12 +1,12 @@
 kde-base/okular
-media-video/vlc alsa dvb flac kde mp3 mpeg ogg opengl png pulseaudio svg udev v4l vorbis xml xv
-kde-base/gwenview kipi
-media-gfx/gimp pdf png svg
+media-video/vlc[alsa,dvb,flac,kde,mp3,mpeg,ogg,opengl,png,pulseaudio,svg,udev,v4l,vorbis,xml,xv]
+kde-base/gwenview[kipi]
+media-gfx/gimp[pdf,png,svg]
 media-plugins/gimp-gmic
 media-plugins/gimp-resynthesizer
 media-gfx/inkscape
-app-office/libreoffice cups kde
+app-office/libreoffice[cups,kde]
 media-video/avidemux
 media-sound/audacity
 kde-base/ksnapshot
-app-text/xournal pdf
+app-text/xournal[pdf]
