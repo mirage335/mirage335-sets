@@ -2,7 +2,7 @@ kde-base/okular
 media-video/vlc alsa dvb flac kde mp3 mpeg ogg opengl png pulseaudio svg udev v4l vorbis xml xv
 kde-base/gwenview kipi
 media-gfx/gimp pdf png svg
-media-gfx/gimp-gmic
+media-plugins/gimp-gmic
 media-gfx/gimp-resynthesizer
 media-gfx/inkscape
 app-office/libreoffice cups kde

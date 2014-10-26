@@ -1,27 +1,27 @@
->=app-backup/rsyncOSbackup 9999
+>=app-backup/rsyncOSbackup-9999
 
->=app-emulation/IQEmu 9999
->=app-emulation/PortableChRoot 9999
->=app-emulation/win-nix_param_converter 9999
->=app-emulation/wine-here 9999
+>=app-emulation/IQEmu-9999
+>=app-emulation/PortableChRoot-9999
+>=app-emulation/win-nix_param_converter-9999
+>=app-emulation/wine-here-9999
 
->=app-shells/bashrc-mirage335 9999
->=app-shells/ubiquitious_bash 9999
+>=app-shells/bashrc-mirage335-9999
+>=app-shells/ubiquitious_bash-9999
 
->=kde-base/kdm-listentcp 9999
+>=kde-base/kdm-listentcp-9999
 
->=media-sound/sox 9999
+>=media-sound/sox-9999
 
->=net-wireless/gr-pipe 9999
+>=net-wireless/gr-pipe-9999
 
->=sci-electronics/pcb-dsn 9999
->=sci-electronics/pcb2gcode 9999
+>=sci-electronics/pcb-dsn-9999
+>=sci-electronics/pcb2gcode-9999
 
->=sys-auth/pam-noconfirm 9999
+>=sys-auth/pam-noconfirm-9999
 
->=sys-kernel/pm-mirage335 9999
+>=sys-kernel/pm-mirage335-9999
 
->=x11-apps/xhostAddLocal 9999
+>=x11-apps/xhostAddLocal-9999
 
->=x11-misc/mirage335-xbindkeysrc-wmctrl 9999
->=x11-misc/parcellite-actions-mirage335 9999
+>=x11-misc/mirage335-xbindkeysrc-wmctrl-9999
+>=x11-misc/parcellite-actions-mirage335-9999
