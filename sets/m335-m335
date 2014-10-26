@@ -19,7 +19,7 @@
 
 >=sys-auth/pam-noconfirm-9999
 
->=sys-kernel/pm-mirage335-9999
+>=sys-power/pm-mirage335-9999
 
 >=x11-apps/xhostAddLocal-9999
 
