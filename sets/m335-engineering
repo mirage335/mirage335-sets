@@ -7,7 +7,7 @@ sci-electronics/gnetman
 sci-electronics/gnucap
 sci-electronics/gspiceui
 sci-electronics/gtkwave
-sci-electronics/gwave
+#sci-electronics/gwave
 sci-electronics/ngspice
 sci-electronics/pcb2gcode
 sci-electronics/pcb-dsn dbus gif gtk jpeg gcode mvlib-png opengl png tk toporouter
