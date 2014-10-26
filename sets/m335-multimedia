@@ -5,7 +5,7 @@ media-gfx/gimp[pdf,png,svg]
 media-plugins/gimp-gmic
 media-plugins/gimp-resynthesizer
 media-gfx/inkscape
-app-office/libreoffice[cups,kde]
+app-office/libreoffice-bin[kde]
 media-video/avidemux
 media-sound/audacity
 kde-base/ksnapshot
