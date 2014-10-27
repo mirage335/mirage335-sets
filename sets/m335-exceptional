@@ -1,0 +1,11 @@
+>=net-wireless/gr-pipe-9999
+
+>=sci-electronics/pcb-dsn-9999[gif,gtk,jpeg,gcode,m4lib-png,opengl,png,tk,toporouter]
+
+>=app-emulation/IQEmu-9999
+
+app-emulation/virtualbox[additions,alsa,pulseaudio,sdk]
+
+sci-electronics/gnetman #Building on TCL/TK 6.x requires: ${CFLAGS} -DUSE_INTERP_ERRORLINE -DUSE_INTERP_RESULT
+
+sci-electronics/gwave

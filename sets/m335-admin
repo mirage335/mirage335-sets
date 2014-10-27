@@ -6,7 +6,6 @@ kde-misc/krename
 kde-misc/kdiff3
 sys-block/gparted
 net-misc/wicd[gtk,X]
-app-emulation/virtualbox[additions,alsa,pulseaudio,sdk]
 
 app-admin/sudo
 kde-misc/kdesudo

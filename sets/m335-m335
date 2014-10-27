@@ -1,6 +1,5 @@
 >=app-backup/rsyncOSbackup-9999
 
->=app-emulation/IQEmu-9999
 >=app-emulation/PortableChRoot-9999
 >=app-emulation/win-nix_param_converter-9999
 >=app-emulation/wine-here-9999
@@ -14,7 +13,6 @@
 
 >=net-wireless/gr-pipe-9999
 
->=sci-electronics/pcb-dsn-9999
 >=sci-electronics/pcb2gcode-9999
 
 >=sys-auth/pam-noconfirm-9999

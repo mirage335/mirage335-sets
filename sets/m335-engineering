@@ -3,14 +3,10 @@ sci-electronics/electric
 sci-electronics/geda
 sci-electronics/geda-suite
 sci-electronics/gerbv
-sci-electronics/gnetman
 sci-electronics/gnucap
 sci-electronics/gspiceui
 sci-electronics/gtkwave
-#sci-electronics/gwave
 sci-electronics/ngspice
-sci-electronics/pcb2gcode
-sci-electronics/pcb-dsn[gif,gtk,jpeg,gcode,m4lib-png,opengl,png,tk,toporouter]
 
 sci-calculators/qalculate-gtk
 sci-mathematics/cgal
