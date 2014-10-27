@@ -21,4 +21,5 @@ app-office/texmacs
 
 media-gfx/freecad
 
-net-wireless/gnuradio[audio,alsa,analog,digital,examples,fcd,filter,grc,qt4,sdl,uhd,utils,wavelet,wxwidgets]
+net-wireless/gnuradio[audio,alsa,analog,digital,examples,fcd,filter,grc,qt4,sdl,uhd,-utils,wavelet,wxwidgets]
+=dev-python/numpy-1.8.2-r1000
