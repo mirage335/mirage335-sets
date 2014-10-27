@@ -11,8 +11,6 @@
 
 >=media-sound/sox-9999
 
->=net-wireless/gr-pipe-9999
-
 >=sci-electronics/pcb2gcode-9999
 
 >=sys-auth/pam-noconfirm-9999
