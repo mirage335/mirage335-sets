@@ -9,3 +9,5 @@ app-emulation/virtualbox[additions,alsa,pulseaudio,sdk]
 sci-electronics/gnetman #Building on TCL/TK 6.x requires: ${CFLAGS} -DUSE_INTERP_ERRORLINE -DUSE_INTERP_RESULT
 
 sci-electronics/gwave
+
+www-client/chromium
