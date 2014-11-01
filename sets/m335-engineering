@@ -1,13 +1,5 @@
 sci-electronics/electric
 
-sci-electronics/geda
-sci-electronics/geda-suite
-sci-electronics/gerbv
-sci-electronics/gnucap
-sci-electronics/gspiceui
-sci-electronics/gtkwave
-sci-electronics/ngspice
-
 sci-calculators/qalculate-gtk
 sci-mathematics/cgal
 sci-mathematics/lpsolve
