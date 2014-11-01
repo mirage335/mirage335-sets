@@ -18,3 +18,5 @@ sci-electronics/gtkwave
 sci-electronics/ngspice
 sci-electronics/gnetman
 sci-electronics/gwave
+
+sci-mathematics/maxima
