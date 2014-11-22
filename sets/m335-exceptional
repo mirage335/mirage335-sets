@@ -20,3 +20,9 @@ sci-electronics/gnetman
 sci-electronics/gwave
 
 sci-mathematics/maxima
+
+#Lightly used math programs tend to have more problems building. 
+sci-mathematics/cgal
+sci-mathematics/lpsolve
+sci-mathematics/yacas
+app-office/texmacs
