@@ -5,5 +5,5 @@ sci-calculators/qalculate-gtk
 media-gfx/freecad
 
 net-wireless/gnuradio[audio,alsa,analog,digital,examples,fcd,filter,grc,qt4,sdl,uhd,utils,wavelet,wxwidgets]
-=net-wireless/uhd-3.7.2
+net-wireless/uhd
 =dev-python/numpy-1.8.2-r1000
